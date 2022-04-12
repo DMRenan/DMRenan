@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DMRenan - Renan Duarte - Brazilian
 - 👀 I’m interested in ... - Python, Backend, Data Analysis... Just getting started at those
-- 🌱 I’m currently learning ... - HTML / CSS / JAVA / C++ / PYTHON
+- 🌱 I’m currently learning ... - HTML / CSS / JAVA / C++ / PYTHON /C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... - rnnmrcdrt@gmail.com
 
